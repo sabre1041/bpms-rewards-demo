@@ -40,6 +40,8 @@ Released versions
 
 See the tagged releases for the following versions of the product:
 
+- v1.4 - JBoss BPM Suite 6.1.ER installer with rewards demo installed.
+
 - v1.3 - JBoss BPM Suite 6.0.3 installer with rewards demo installed.
 
 - v1.2 - JBoss BPM Suite 6.0.2 installer used, with rewards demo installed.
